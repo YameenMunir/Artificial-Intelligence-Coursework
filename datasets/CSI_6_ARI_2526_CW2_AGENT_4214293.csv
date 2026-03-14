@@ -1,0 +1,201 @@
+record_id,model_score,recommended_action,decision_rationale,expected_cost_gbp
+REC_00001,0.563292,A1,Failure probability (0.5633) exceeds cost-optimal threshold (0.419); potential developing fault; schedule inspection,291.65
+REC_00002,0.000828,A0,Low failure probability (0.0008 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,0.41
+REC_00003,0.041568,A0,Low failure probability (0.0416 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,20.78
+REC_00004,0.031569,A0,Low failure probability (0.0316 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,15.78
+REC_00005,0.139761,A0,Low failure probability (0.1398 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,69.88
+REC_00006,0.672515,A1,Failure probability (0.6725) exceeds cost-optimal threshold (0.419); potential developing fault; schedule inspection,346.26
+REC_00007,0.013791,A0,Low failure probability (0.0138 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,6.9
+REC_00008,0.869742,A2,High failure probability (0.8697 >= 0.75); expected non-action cost £435 >> inspection cost £10; immediate safety escalation required,444.87
+REC_00009,0.308106,A0,Low failure probability (0.3081 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,154.05
+REC_00010,0.029724,A0,Low failure probability (0.0297 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,14.86
+REC_00011,0.012247,A0,Low failure probability (0.0122 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,6.12
+REC_00012,0.027601,A0,Low failure probability (0.0276 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,13.8
+REC_00013,0.010043,A0,Low failure probability (0.0100 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,5.02
+REC_00014,0.052823,A0,Low failure probability (0.0528 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,26.41
+REC_00015,0.485665,A1,Failure probability (0.4857) exceeds cost-optimal threshold (0.419); potential developing fault; schedule inspection,252.83
+REC_00016,0.053156,A0,Low failure probability (0.0532 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,26.58
+REC_00017,0.018784,A0,Low failure probability (0.0188 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,9.39
+REC_00018,0.149701,A0,Low failure probability (0.1497 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,74.85
+REC_00019,0.932908,A2,High failure probability (0.9329 >= 0.75); expected non-action cost £466 >> inspection cost £10; immediate safety escalation required,476.45
+REC_00020,0.967244,A2,High failure probability (0.9672 >= 0.75); expected non-action cost £484 >> inspection cost £10; immediate safety escalation required,493.62
+REC_00021,0.249153,A0,Low failure probability (0.2492 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,124.58
+REC_00022,0.049937,A0,Low failure probability (0.0499 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,24.97
+REC_00023,0.146729,A0,Low failure probability (0.1467 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,73.36
+REC_00024,0.00324,A0,Low failure probability (0.0032 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.62
+REC_00025,0.236423,A0,Low failure probability (0.2364 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,118.21
+REC_00026,0.758038,A2,High failure probability (0.7580 >= 0.75); expected non-action cost £379 >> inspection cost £10; immediate safety escalation required,389.02
+REC_00027,0.072945,A0,Low failure probability (0.0729 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,36.47
+REC_00028,0.013503,A0,Low failure probability (0.0135 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,6.75
+REC_00029,0.05728,A0,Low failure probability (0.0573 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,28.64
+REC_00030,0.034287,A0,Low failure probability (0.0343 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,17.14
+REC_00031,0.002045,A0,Low failure probability (0.0020 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.02
+REC_00032,0.144751,A0,Low failure probability (0.1448 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,72.38
+REC_00033,0.022771,A0,Low failure probability (0.0228 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,11.39
+REC_00034,0.004174,A0,Low failure probability (0.0042 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,2.09
+REC_00035,0.086446,A0,Low failure probability (0.0864 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,43.22
+REC_00036,0.094757,A0,Low failure probability (0.0948 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,47.38
+REC_00037,0.028588,A0,Low failure probability (0.0286 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,14.29
+REC_00038,0.000894,A0,Low failure probability (0.0009 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,0.45
+REC_00039,0.01137,A0,Low failure probability (0.0114 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,5.68
+REC_00040,0.676187,A1,Failure probability (0.6762) exceeds cost-optimal threshold (0.419); potential developing fault; schedule inspection,348.09
+REC_00041,0.022714,A0,Low failure probability (0.0227 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,11.36
+REC_00042,0.004415,A0,Low failure probability (0.0044 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,2.21
+REC_00043,0.020062,A0,Low failure probability (0.0201 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,10.03
+REC_00044,0.048998,A0,Low failure probability (0.0490 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,24.5
+REC_00045,0.015645,A0,Low failure probability (0.0156 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,7.82
+REC_00046,0.004218,A0,Low failure probability (0.0042 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,2.11
+REC_00047,0.00405,A0,Low failure probability (0.0041 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,2.03
+REC_00048,0.032567,A0,Low failure probability (0.0326 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,16.28
+REC_00049,0.002741,A0,Low failure probability (0.0027 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.37
+REC_00050,0.002369,A0,Low failure probability (0.0024 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.18
+REC_00051,0.956038,A2,High failure probability (0.9560 >= 0.75); expected non-action cost £478 >> inspection cost £10; immediate safety escalation required,488.02
+REC_00052,0.00262,A0,Low failure probability (0.0026 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.31
+REC_00053,0.000663,A0,Low failure probability (0.0007 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,0.33
+REC_00054,0.013257,A0,Low failure probability (0.0133 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,6.63
+REC_00055,0.025861,A0,Low failure probability (0.0259 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,12.93
+REC_00056,0.008219,A0,Low failure probability (0.0082 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,4.11
+REC_00057,0.003212,A0,Low failure probability (0.0032 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.61
+REC_00058,0.062958,A0,Low failure probability (0.0630 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,31.48
+REC_00059,0.163196,A0,Low failure probability (0.1632 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,81.6
+REC_00060,0.127208,A0,Low failure probability (0.1272 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,63.6
+REC_00061,0.091414,A0,Low failure probability (0.0914 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,45.71
+REC_00062,0.030835,A0,Low failure probability (0.0308 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,15.42
+REC_00063,0.991135,A2,High failure probability (0.9911 >= 0.75); expected non-action cost £496 >> inspection cost £10; immediate safety escalation required,505.57
+REC_00064,0.037762,A0,Low failure probability (0.0378 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,18.88
+REC_00065,0.024287,A0,Low failure probability (0.0243 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,12.14
+REC_00066,0.025425,A0,Low failure probability (0.0254 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,12.71
+REC_00067,0.011055,A0,Low failure probability (0.0111 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,5.53
+REC_00068,0.068093,A0,Low failure probability (0.0681 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,34.05
+REC_00069,0.298655,A0,Low failure probability (0.2987 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,149.33
+REC_00070,0.027574,A0,Low failure probability (0.0276 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,13.79
+REC_00071,0.028098,A0,Low failure probability (0.0281 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,14.05
+REC_00072,0.099251,A0,Low failure probability (0.0993 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,49.63
+REC_00073,0.036548,A0,Low failure probability (0.0365 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,18.27
+REC_00074,0.094295,A0,Low failure probability (0.0943 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,47.15
+REC_00075,0.018206,A0,Low failure probability (0.0182 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,9.1
+REC_00076,0.023842,A0,Low failure probability (0.0238 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,11.92
+REC_00077,0.002217,A0,Low failure probability (0.0022 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.11
+REC_00078,0.001769,A0,Low failure probability (0.0018 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,0.88
+REC_00079,0.031355,A0,Low failure probability (0.0314 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,15.68
+REC_00080,0.006383,A0,Low failure probability (0.0064 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,3.19
+REC_00081,0.009464,A0,Low failure probability (0.0095 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,4.73
+REC_00082,0.097243,A0,Low failure probability (0.0972 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,48.62
+REC_00083,0.014029,A0,Low failure probability (0.0140 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,7.01
+REC_00084,0.014874,A0,Low failure probability (0.0149 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,7.44
+REC_00085,0.020424,A0,Low failure probability (0.0204 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,10.21
+REC_00086,0.998072,A2,High failure probability (0.9981 >= 0.75); expected non-action cost £499 >> inspection cost £10; immediate safety escalation required,509.04
+REC_00087,0.190289,A0,Low failure probability (0.1903 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,95.14
+REC_00088,0.044898,A0,Low failure probability (0.0449 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,22.45
+REC_00089,0.003788,A0,Low failure probability (0.0038 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.89
+REC_00090,0.123134,A0,Low failure probability (0.1231 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,61.57
+REC_00091,0.03318,A0,Low failure probability (0.0332 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,16.59
+REC_00092,0.545123,A1,Failure probability (0.5451) exceeds cost-optimal threshold (0.419); potential developing fault; schedule inspection,282.56
+REC_00093,0.679951,A1,Failure probability (0.6800) exceeds cost-optimal threshold (0.419); potential developing fault; schedule inspection,349.98
+REC_00094,0.42796,A1,Failure probability (0.4280) exceeds cost-optimal threshold (0.419); potential developing fault; schedule inspection,223.98
+REC_00095,0.041708,A0,Low failure probability (0.0417 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,20.85
+REC_00096,0.014582,A0,Low failure probability (0.0146 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,7.29
+REC_00097,0.894759,A2,High failure probability (0.8948 >= 0.75); expected non-action cost £447 >> inspection cost £10; immediate safety escalation required,457.38
+REC_00098,0.436745,A1,Failure probability (0.4367) exceeds cost-optimal threshold (0.419); potential developing fault; schedule inspection,228.37
+REC_00099,0.068201,A0,Low failure probability (0.0682 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,34.1
+REC_00100,0.009031,A0,Low failure probability (0.0090 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,4.52
+REC_00101,0.024466,A0,Low failure probability (0.0245 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,12.23
+REC_00102,0.012443,A0,Low failure probability (0.0124 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,6.22
+REC_00103,0.714106,A1,Failure probability (0.7141) exceeds cost-optimal threshold (0.419); potential developing fault; schedule inspection,367.05
+REC_00104,0.011703,A0,Low failure probability (0.0117 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,5.85
+REC_00105,0.126923,A0,Low failure probability (0.1269 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,63.46
+REC_00106,0.001157,A0,Low failure probability (0.0012 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,0.58
+REC_00107,0.070654,A0,Low failure probability (0.0707 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,35.33
+REC_00108,0.998121,A2,High failure probability (0.9981 >= 0.75); expected non-action cost £499 >> inspection cost £10; immediate safety escalation required,509.06
+REC_00109,0.436601,A1,Failure probability (0.4366) exceeds cost-optimal threshold (0.419); potential developing fault; schedule inspection,228.3
+REC_00110,0.006153,A0,Low failure probability (0.0062 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,3.08
+REC_00111,0.056251,A0,Low failure probability (0.0563 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,28.13
+REC_00112,0.054264,A0,Low failure probability (0.0543 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,27.13
+REC_00113,0.996238,A2,High failure probability (0.9962 >= 0.75); expected non-action cost £498 >> inspection cost £10; immediate safety escalation required,508.12
+REC_00114,0.003938,A0,Low failure probability (0.0039 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.97
+REC_00115,0.064162,A0,Low failure probability (0.0642 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,32.08
+REC_00116,0.046162,A0,Low failure probability (0.0462 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,23.08
+REC_00117,0.004264,A0,Low failure probability (0.0043 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,2.13
+REC_00118,0.018706,A0,Low failure probability (0.0187 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,9.35
+REC_00119,0.301075,A0,Low failure probability (0.3011 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,150.54
+REC_00120,0.036858,A0,Low failure probability (0.0369 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,18.43
+REC_00121,0.031412,A0,Low failure probability (0.0314 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,15.71
+REC_00122,0.31433,A0,Low failure probability (0.3143 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,157.16
+REC_00123,0.044187,A0,Low failure probability (0.0442 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,22.09
+REC_00124,0.123257,A0,Low failure probability (0.1233 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,61.63
+REC_00125,0.09571,A0,Low failure probability (0.0957 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,47.85
+REC_00126,0.969755,A2,High failure probability (0.9698 >= 0.75); expected non-action cost £485 >> inspection cost £10; immediate safety escalation required,494.88
+REC_00127,0.055712,A0,Low failure probability (0.0557 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,27.86
+REC_00128,0.015372,A0,Low failure probability (0.0154 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,7.69
+REC_00129,0.001931,A0,Low failure probability (0.0019 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,0.97
+REC_00130,0.988151,A2,High failure probability (0.9882 >= 0.75); expected non-action cost £494 >> inspection cost £10; immediate safety escalation required,504.08
+REC_00131,0.005329,A0,Low failure probability (0.0053 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,2.66
+REC_00132,0.042962,A0,Low failure probability (0.0430 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,21.48
+REC_00133,0.000602,A0,Low failure probability (0.0006 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,0.3
+REC_00134,0.003108,A0,Low failure probability (0.0031 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.55
+REC_00135,0.998078,A2,High failure probability (0.9981 >= 0.75); expected non-action cost £499 >> inspection cost £10; immediate safety escalation required,509.04
+REC_00136,0.010916,A0,Low failure probability (0.0109 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,5.46
+REC_00137,0.036291,A0,Low failure probability (0.0363 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,18.15
+REC_00138,0.039743,A0,Low failure probability (0.0397 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,19.87
+REC_00139,0.0136,A0,Low failure probability (0.0136 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,6.8
+REC_00140,0.040751,A0,Low failure probability (0.0408 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,20.38
+REC_00141,0.054056,A0,Low failure probability (0.0541 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,27.03
+REC_00142,0.24247,A0,Low failure probability (0.2425 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,121.24
+REC_00143,0.339177,A0,Low failure probability (0.3392 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,169.59
+REC_00144,0.171995,A0,Low failure probability (0.1720 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,86.0
+REC_00145,0.032566,A0,Low failure probability (0.0326 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,16.28
+REC_00146,0.109025,A0,Low failure probability (0.1090 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,54.51
+REC_00147,0.027887,A0,Low failure probability (0.0279 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,13.94
+REC_00148,0.064816,A0,Low failure probability (0.0648 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,32.41
+REC_00149,0.065617,A0,Low failure probability (0.0656 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,32.81
+REC_00150,0.397852,A0,Low failure probability (0.3979 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,198.93
+REC_00151,0.028923,A0,Low failure probability (0.0289 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,14.46
+REC_00152,0.142768,A0,Low failure probability (0.1428 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,71.38
+REC_00153,0.019165,A0,Low failure probability (0.0192 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,9.58
+REC_00154,0.004229,A0,Low failure probability (0.0042 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,2.11
+REC_00155,0.032375,A0,Low failure probability (0.0324 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,16.19
+REC_00156,0.013924,A0,Low failure probability (0.0139 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,6.96
+REC_00157,0.005088,A0,Low failure probability (0.0051 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,2.54
+REC_00158,0.411581,A0,Low failure probability (0.4116 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,205.79
+REC_00159,0.985773,A2,High failure probability (0.9858 >= 0.75); expected non-action cost £493 >> inspection cost £10; immediate safety escalation required,502.89
+REC_00160,0.050751,A0,Low failure probability (0.0508 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,25.38
+REC_00161,0.068399,A0,Low failure probability (0.0684 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,34.2
+REC_00162,0.009574,A0,Low failure probability (0.0096 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,4.79
+REC_00163,0.01701,A0,Low failure probability (0.0170 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,8.5
+REC_00164,0.034669,A0,Low failure probability (0.0347 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,17.33
+REC_00165,0.205719,A0,Low failure probability (0.2057 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,102.86
+REC_00166,0.131134,A0,Low failure probability (0.1311 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,65.57
+REC_00167,0.016903,A0,Low failure probability (0.0169 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,8.45
+REC_00168,0.027319,A0,Low failure probability (0.0273 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,13.66
+REC_00169,0.161166,A0,Low failure probability (0.1612 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,80.58
+REC_00170,0.003636,A0,Low failure probability (0.0036 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.82
+REC_00171,0.023372,A0,Low failure probability (0.0234 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,11.69
+REC_00172,0.038481,A0,Low failure probability (0.0385 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,19.24
+REC_00173,0.024302,A0,Low failure probability (0.0243 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,12.15
+REC_00174,0.012795,A0,Low failure probability (0.0128 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,6.4
+REC_00175,0.932916,A2,High failure probability (0.9329 >= 0.75); expected non-action cost £466 >> inspection cost £10; immediate safety escalation required,476.46
+REC_00176,0.002626,A0,Low failure probability (0.0026 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.31
+REC_00177,0.055373,A0,Low failure probability (0.0554 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,27.69
+REC_00178,0.061778,A0,Low failure probability (0.0618 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,30.89
+REC_00179,0.00161,A0,Low failure probability (0.0016 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,0.8
+REC_00180,0.001455,A0,Low failure probability (0.0015 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,0.73
+REC_00181,0.035036,A0,Low failure probability (0.0350 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,17.52
+REC_00182,0.054784,A0,Low failure probability (0.0548 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,27.39
+REC_00183,0.043909,A0,Low failure probability (0.0439 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,21.95
+REC_00184,0.035195,A0,Low failure probability (0.0352 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,17.6
+REC_00185,0.006242,A0,Low failure probability (0.0062 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,3.12
+REC_00186,0.024338,A0,Low failure probability (0.0243 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,12.17
+REC_00187,0.003533,A0,Low failure probability (0.0035 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.77
+REC_00188,0.019614,A0,Low failure probability (0.0196 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,9.81
+REC_00189,0.314769,A0,Low failure probability (0.3148 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,157.38
+REC_00190,0.002957,A0,Low failure probability (0.0030 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.48
+REC_00191,0.014263,A0,Low failure probability (0.0143 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,7.13
+REC_00192,0.028608,A0,Low failure probability (0.0286 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,14.3
+REC_00193,0.001374,A0,Low failure probability (0.0014 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,0.69
+REC_00194,0.002919,A0,Low failure probability (0.0029 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,1.46
+REC_00195,0.016409,A0,Low failure probability (0.0164 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,8.2
+REC_00196,0.024352,A0,Low failure probability (0.0244 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,12.18
+REC_00197,0.001972,A0,Low failure probability (0.0020 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,0.99
+REC_00198,0.751564,A2,High failure probability (0.7516 >= 0.75); expected non-action cost £376 >> inspection cost £10; immediate safety escalation required,385.78
+REC_00199,0.917756,A2,High failure probability (0.9178 >= 0.75); expected non-action cost £459 >> inspection cost £10; immediate safety escalation required,468.88
+REC_00200,0.013522,A0,Low failure probability (0.0135 < 0.419); below cost-optimal threshold; normal operating state — continue monitoring,6.76
